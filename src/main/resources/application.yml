@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: airbnb
+  datasource:
+    url: jdbc:postgresql://localhost:5432/airbnb
+    username: postgres
+    password: root
+    driver-class-name: org.postgresql.Driver
